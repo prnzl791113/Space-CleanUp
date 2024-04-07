@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FE16E92A-28D9-EA19-D5A4-10514C958B90}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/joyControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/joyControl.cs" Line="269" Column="60" />
+      <File FileName="Assets/Scripts/Rotate.cs" />
+      <File FileName="Assets/Scripts/Switch Camera.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7a8b9055-95a7-4e95-b312-5f65defb5286" />
+</Properties>

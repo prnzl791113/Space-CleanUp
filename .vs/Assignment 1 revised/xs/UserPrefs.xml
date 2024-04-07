@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{22196F30-C55A-5048-6958-AC2D7034E774}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="83bf6302-e13a-40ed-a638-f61881ce9ca7" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Rotate.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Rotate.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/Switch Camera.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/GameStart.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/joyControl.cs" Line="60" Column="10" NotebookId="1" />
+      <File FileName="Assets/Scripts/Buttons Implementation.cs" Line="8" Column="21" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assignment 1 revised" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Joystick Pack" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Joysticks" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Rotate.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
